@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment (As requested: .venv in root)
+.venv/
+env/
+
+# Dependencies
+# Windows specific
+# venv/Scripts/
+# Linux/macOS specific
+# venv/bin/
+
+# Database (As requested: data/scraper.db)
+data/scraper.db
+
+# Logs and other temporary files
+*.log
+.DS_Store
+
+# Streamlit (Dashboard related)
+.streamlit/
