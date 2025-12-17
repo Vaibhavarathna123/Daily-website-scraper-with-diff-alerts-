@@ -1,4 +1,4 @@
-# 🌐 Daily Website Diff Scraper
+# 🌐 Daily website scraper with “diff” alerts 
 
 ## 🚀 Project Overview
 The **Daily Website Diff Scraper** is an automated website monitoring tool designed
