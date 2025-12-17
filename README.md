@@ -164,3 +164,17 @@ Stores crawl and email history.
 
 **Example message:**
 > NEW: 0 | CHANGED: 8 | REMOVED: 0 | Email sent successfully
+
+---
+
+## 🧪 Unit Testing
+
+- **Unit tests implemented using pytest**
+- **Core diff logic verified using automated test cases**
+- Tests ensure correct detection of **NEW**, **CHANGED**, and **REMOVED** pages
+- Test files are located in the `tests/` directory
+
+Run tests using:
+```bash
+pytest
+```
